@@ -1,0 +1,2 @@
+/Users/nineimacm2/Documents/travel-and-food/android/app/.cxx/Debug/1g2p573x/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/nineimacm2/Documents/travel-and-food/android/app/.cxx/Debug/1g2p573x/armeabi-v7a/CMakeFiles/rebuild_cache.dir

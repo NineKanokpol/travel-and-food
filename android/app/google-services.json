@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318661611178",
+    "project_id": "travel-and-food-9bd5b",
+    "storage_bucket": "travel-and-food-9bd5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318661611178:android:c16d22c19c3249d1c68ad3",
+        "android_client_info": {
+          "package_name": "com.example.travel_and_food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAasFdj3hej83rQc1o-ExJARHGUsutgHYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

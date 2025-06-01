@@ -1,0 +1,2 @@
+/Users/nineimacm2/Documents/travel-and-food/android/app/.cxx/RelWithDebInfo/6w1e7360/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/nineimacm2/Documents/travel-and-food/android/app/.cxx/RelWithDebInfo/6w1e7360/arm64-v8a/CMakeFiles/rebuild_cache.dir
