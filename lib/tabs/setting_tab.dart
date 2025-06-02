@@ -101,9 +101,9 @@ class _SettingTabState extends State<SettingTab> {
                   width: double.infinity,
                   child: ElevatedButton(
                     onPressed: () {
-                      canLaunchUrl(Uri(scheme: 'tel', path: '1669')).then((bool result) {
+                      canLaunchUrl(Uri(scheme: 'tel', path: '0863569594')).then((bool result) {
                         if (result) {
-                          launchUrl(Uri(scheme: 'tel', path: '1669'));
+                          launchUrl(Uri(scheme: 'tel', path: '0863569594'));
                         } else {
                           ScaffoldMessenger.of(context).showSnackBar(
                             const SnackBar(
